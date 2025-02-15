@@ -1,0 +1,20 @@
+[project]
+name = "langchain-academy"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain-community>=0.3.17",
+    "langchain-core>=0.3.35",
+    "langchain-openai>=0.3.6",
+    "langgraph>=0.2.73",
+    "langgraph-checkpoint-sqlite>=2.0.5",
+    "langgraph-cli>=0.1.71",
+    "langgraph-sdk>=0.1.51",
+    "langsmith>=0.3.8",
+    "notebook>=7.3.2",
+    "tavily-python>=0.5.1",
+    "trustcall>=0.0.37",
+    "wikipedia>=1.4.0",
+]
