@@ -222,3 +222,6 @@ module-6/deployment/docker-compose.yml
 
 # UV
 uv.lock
+
+# Langgraph Studio
+.langgraph_api
